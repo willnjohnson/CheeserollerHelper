@@ -1,0 +1,2 @@
+# CheeserollerHelper
+Automatically play Cheeseroller
